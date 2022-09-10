@@ -1,0 +1,10 @@
+.titulo {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.pie {
+    color: blue;
+    text-align: center;
+}
